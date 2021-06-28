@@ -1,0 +1,11 @@
+#lang racket
+(define h 5)
+(define w) 5)
+(define init (list
+             (list "." "□" "." "." ".")
+             (list "." "□" "." "." ".")
+             (list "." "." "□" "." ".")
+             (list "." "." "□" "." ".")
+             (list "." "." "." "." ".")
+              
+              ))
